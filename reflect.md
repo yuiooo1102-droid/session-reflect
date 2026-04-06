@@ -51,7 +51,7 @@ python3 ~/coding/session-reflect/extract_sessions.py status
 
 ```json
 {
-  "vault_path": "/Users/wh/coding/Obsidian_Vault"
+  "vault_path": "/path/to/your/Obsidian_Vault"
 }
 ```
 
